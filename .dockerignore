@@ -1,0 +1,10 @@
+*.ipynb
+files/
+.git*
+.env
+.venv
+.gitignore
+pyproject.toml
+poetry.lock
+**/__pycache__
+**/*.pyc
