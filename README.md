@@ -11,7 +11,7 @@ Before you embark on this journey, make sure you have the following:
 
 1. **Clone the Magical Repository**:
    ```bash
-   git clone https://github.com/milistu/simple-backend.git
+   git clone https://github.com/adrianebertowski/simple-backend.git
    ```
    ```bash
    cd simple-backend
