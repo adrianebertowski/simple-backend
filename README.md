@@ -6,9 +6,9 @@ Basic understanding of Python.
 Curiosity and enthusiasm for learning new things!
 Installation and Usage
 Clone the Magical Repository:
-
-git clone https://github.com/milistu/simple-backend.git
 cd simple-backend
+
+
 Build Docker image:
 
 docker build -t simple-backend .
